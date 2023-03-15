@@ -1,0 +1,46 @@
+.grad1{
+    height: 700px;
+    background-color: rgb(214, 191, 63);
+    background-image: linear-gradient(rgb(228, 200, 64));
+    text-align: center;
+    list-style-type: none;
+  }
+
+  .button{
+    text-align: center;
+    padding: 12px 177px;
+    background-color: antiquewhite;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border: 2px solid rgb(15, 3, 3);
+    margin-top: 20px;
+    border-radius: 3px;
+  }
+
+  .a{
+    color: black;
+  }
+
+  ul.no-bullets{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .form {
+    margin: 35px;
+  }
+  .input-field{
+      width: 400px;
+      height: 40px;
+      margin-top: 20px;
+      padding-left: 10px;
+  }
+  .textarea{
+    width: 400px;
+    height: 120px;
+    margin-top: 20px;
+    padding-left: 10px;
+  }
+ 

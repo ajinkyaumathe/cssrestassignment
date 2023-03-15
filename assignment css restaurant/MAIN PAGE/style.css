@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    background: #000;
+    height: 100vh;
+    font-family: 'Railway' sans-serif;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+/*-------------button---------*/
+
+.btn-button{
+    cursor: pointer;
+    font-size: 24px;
+    margin: 0px 0px 100px;
+    position: relative;
+    background-color: #d8dfc7;
+    border: none;
+    width: 200px;
+    color: #d69191;
+    border-radius: 6px;
+    text-align: center;
+    transition: 0.4s all;
+    text-decoration: none;
+    overflow: hidden;
+}
+.btn-main{
+   position: center;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   padding: 42px;
+}
+.btn-button: hover{
+    background-color: #fff;
+    box-shadow: 0px 2px 10px 5px #97b1bf;
+}

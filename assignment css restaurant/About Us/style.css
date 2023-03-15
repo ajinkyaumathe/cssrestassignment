@@ -1,0 +1,14 @@
+.box{
+    width: 1500px;
+    height: 200pox;
+    border: 2px solid rgb(15, 3, 3);
+    margin: auto; 
+    text-align: center;
+}
+
+
+.grad1{
+    height: 700px;
+    background-color: red;
+    background-image: linear-gradient(rgb(0, 255, 4), yellow);
+  }
